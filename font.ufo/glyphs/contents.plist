@@ -520,6 +520,8 @@
 	<string>lastresortgunjalagondi.glif</string>
 	<key>lastresorttolongsiki</key>
 	<string>lastresorttolongsiki.glif</string>
+	<key>lastresortbengalisupplement</key>
+	<string>lastresortbengalisupplement.glif</string>
 	<key>lastresortmakasar</key>
 	<string>lastresortmakasar.glif</string>
 	<key>lastresortkawi</key>
@@ -534,6 +536,8 @@
 	<string>lastresortcuneiformnumbers.glif</string>
 	<key>lastresortearlydynasticcuneiform</key>
 	<string>lastresortearlydynasticcuneiform.glif</string>
+	<key>lastresortarchaiccuneiformnumerals</key>
+	<string>lastresortarchaiccuneiformnumerals.glif</string>
 	<key>lastresortcyprominoan</key>
 	<string>lastresortcyprominoan.glif</string>
 	<key>lastresortegyptianhieroglyphs</key>
@@ -576,6 +580,10 @@
 	<string>lastresorttangutsupplement.glif</string>
 	<key>lastresorttangutcomponentssupplement</key>
 	<string>lastresorttangutcomponentssupplement.glif</string>
+	<key>lastresortjurchen</key>
+	<string>lastresortjurchen.glif</string>
+	<key>lastresortjurchenradicals</key>
+	<string>lastresortjurchenradicals.glif</string>
 	<key>lastresortkanaextb</key>
 	<string>lastresortkanaextb.glif</string>
 	<key>lastresortkanasuppl</key>
@@ -602,6 +610,8 @@
 	<string>lastresortmusicalsymbols.glif</string>
 	<key>lastresortgreekmusic</key>
 	<string>lastresortgreekmusic.glif</string>
+	<key>lastresortmusicalsymbolssupplement</key>
+	<string>lastresortmusicalsymbolssupplement.glif</string>
 	<key>lastresortkaktoviknumerals</key>
 	<string>lastresortkaktoviknumerals.glif</string>
 	<key>lastresortmayannumerals</key>
@@ -614,6 +624,8 @@
 	<string>lastresortalphamathsymbols.glif</string>
 	<key>lastresortsuttonsignwriting</key>
 	<string>lastresortsuttonsignwriting.glif</string>
+	<key>lastresortmiscsymbolsarrowsext</key>
+	<string>lastresortmiscsymbolsarrowsext.glif</string>
 	<key>lastresortlating</key>
 	<string>lastresortlating.glif</string>
 	<key>lastresortglagoliticsupplement</key>
@@ -704,6 +716,8 @@
 	<string>lastresortcjkexth.glif</string>
 	<key>lastresortcjkextj</key>
 	<string>lastresortcjkextj.glif</string>
+	<key>lastresortseal</key>
+	<string>lastresortseal.glif</string>
 	<key>lastresortnotaunicode3</key>
 	<string>lastresortnotaunicode3.glif</string>
 	<key>lastresortnotdefplanefour</key>

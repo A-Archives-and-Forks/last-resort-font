@@ -39,11 +39,11 @@
 	<key>styleName</key>
 	<string>Regular</string>
 	<key>trademark</key>
-	<string>Copyright 2020-2025 Unicode, Inc.</string>
+	<string>Copyright 2020-2026 Unicode, Inc.</string>
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
 	<key>versionMajor</key>
-	<integer>17</integer>
+	<integer>18</integer>
 	<key>versionMinor</key>
 	<integer>0</integer>
 	<key>xHeight</key>

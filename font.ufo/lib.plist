@@ -263,6 +263,7 @@
 		<string>lastresortmasaramgondi</string>
 		<string>lastresortgunjalagondi</string>
 		<string>lastresorttolongsiki</string>
+		<string>lastresortbengalisupplement</string>
 		<string>lastresortmakasar</string>
 		<string>lastresortkawi</string>
 		<string>lastresortlisusupplement</string>
@@ -270,6 +271,7 @@
 		<string>lastresortcuneiform</string>
 		<string>lastresortcuneiformnumbers</string>
 		<string>lastresortearlydynasticcuneiform</string>
+		<string>lastresortarchaiccuneiformnumerals</string>
 		<string>lastresortcyprominoan</string>
 		<string>lastresortegyptianhieroglyphs</string>
 		<string>lastresortegypthiercontrols</string>
@@ -291,6 +293,8 @@
 		<string>lastresortkhitansmallscript</string>
 		<string>lastresorttangutsupplement</string>
 		<string>lastresorttangutcomponentssupplement</string>
+		<string>lastresortjurchen</string>
+		<string>lastresortjurchenradicals</string>
 		<string>lastresortkanaextb</string>
 		<string>lastresortkanasuppl</string>
 		<string>lastresortkanaexta</string>
@@ -304,12 +308,14 @@
 		<string>lastresortbyzantinemusic</string>
 		<string>lastresortmusicalsymbols</string>
 		<string>lastresortgreekmusic</string>
+		<string>lastresortmusicalsymbolssupplement</string>
 		<string>lastresortkaktoviknumerals</string>
 		<string>lastresortmayannumerals</string>
 		<string>lastresorttaixuanjing</string>
 		<string>lastresortcountingrods</string>
 		<string>lastresortalphamathsymbols</string>
 		<string>lastresortsuttonsignwriting</string>
+		<string>lastresortmiscsymbolsarrowsext</string>
 		<string>lastresortlating</string>
 		<string>lastresortglagoliticsupplement</string>
 		<string>lastresortcyrillicextd</string>
@@ -355,6 +361,7 @@
 		<string>lastresortcjkextg</string>
 		<string>lastresortcjkexth</string>
 		<string>lastresortcjkextj</string>
+		<string>lastresortseal</string>
 		<string>lastresortnotaunicode3</string>
 		<string>lastresortnotdefplanefour</string>
 		<string>lastresortnotaunicode4</string>
